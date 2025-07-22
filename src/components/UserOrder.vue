@@ -1,11 +1,12 @@
 <script setup>
 
-import { RouterView } from 'vue-router';
+
 
 </script>
 
 <template>
- <RouterView />
+<h1>User Order</h1>
+<p>Welcome to the User Order page!</p>
 </template>
 
 <style scoped>

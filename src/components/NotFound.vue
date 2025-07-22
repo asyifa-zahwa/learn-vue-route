@@ -1,11 +1,12 @@
 <script setup>
 
-import { RouterView } from 'vue-router';
+
 
 </script>
 
 <template>
- <RouterView />
+<h1>Sorry</h1>
+<p>This Url is not found</p>
 </template>
 
 <style scoped>

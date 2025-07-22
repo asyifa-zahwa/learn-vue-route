@@ -1,11 +1,15 @@
 <script setup>
 
-import { RouterView } from 'vue-router';
+
 
 </script>
 
 <template>
- <RouterView />
+    <div>
+
+        <h1>Footer</h1>
+        <p>Order@2025</p>
+    </div>
 </template>
 
 <style scoped>

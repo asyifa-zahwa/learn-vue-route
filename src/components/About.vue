@@ -1,11 +1,12 @@
 <script setup>
 
-import { RouterView } from 'vue-router';
+
 
 </script>
 
 <template>
- <RouterView />
+<h1>About</h1>
+<p>Welcome to the Abaout page!</p>
 </template>
 
 <style scoped>

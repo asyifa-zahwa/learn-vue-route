@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "price": 150,
+        "description": "A comfortable wireless mouse with long battery life."
+    },
+    {
+        "id": 2,
+        "name": "Mechanical Keyboard",
+        "price": 350,
+        "description": "A durable mechanical keyboard with customizable keys."
+    },
+    {
+        "id": 3,
+        "name": "HD Monitor",
+        "price": 1200,
+        "description": "A 24-inch HD monitor with vibrant colors."
+    },
+    {
+        "id": 4,
+        "name": "USB-C Hub",
+        "price": 200,
+        "description": "A multi-port USB-C hub for all your devices."
+    },
+    {
+        "id": 5,
+        "name": "Bluetooth Speaker",
+        "price": 400,
+        "description": "A portable Bluetooth speaker with deep bass."
+    },
+    {
+        "id": 6,
+        "name": "Webcam",
+        "price": 250,
+        "description": "A high-definition webcam for video calls."
+    },
+    {
+        "id": 7,
+        "name": "External Hard Drive",
+        "price": 800,
+        "description": "A 1TB external hard drive for extra storage."
+    },
+    {
+        "id": 8,
+        "name": "Smart Watch",
+        "price": 950,
+        "description": "A smart watch with fitness tracking features."
+    },
+    {
+        "id": 9,
+        "name": "Gaming Chair",
+        "price": 1800,
+        "description": "An ergonomic gaming chair for long sessions."
+    },
+    {
+        "id": 10,
+        "name": "Desk Lamp",
+        "price": 120,
+        "description": "An LED desk lamp with adjustable brightness."
+    }
+]
